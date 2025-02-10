@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/79d93fc8-f941-4aad-afa9-80b5ddc15151)# The Bank of Kitto
+# The Bank of Kitto
 
 A simple Python GUI banking application that simulates a basic banking environment. The application supports account creation, login, deposit, withdrawal, and transfer functionalities.
 
@@ -47,6 +47,8 @@ Usage
       - Deposit money by entering an amount and clicking Deposit.
       - Withdraw money (if sufficient funds exist) by entering an amount and clicking Withdraw.
       - Transfer money by entering a recipient's account number and the transfer amount, then clicking Transfer.
+      ![image](https://github.com/user-attachments/assets/d75bb367-4847-4541-8866-bbc064c02464)
+
 
   Logout:
       - Click Logout to exit the home page and return to the login screen.

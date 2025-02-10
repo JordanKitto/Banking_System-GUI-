@@ -33,27 +33,27 @@ A simple Python GUI banking application that simulates a basic banking environme
 
 
 Usage
+1. **Login/Sign Up:**
+  - On the initial screen, enter a 4-digit account number and PIN.
+  - If you are a new user, click Sign Up to create your account.
+  - If you already have an account, click Login.
 
-  Login/Sign Up:
-    - On the initial screen, enter a 4-digit account number and PIN.
-      - If you are a new user, click Sign Up to create your account.
-      - If you already have an account, click Login.
-
-      
 ![image](https://github.com/user-attachments/assets/0fa3ffc9-e14d-4a05-8564-418ddb0bdc9d)
 
 
-  Home Page:
-  Once logged in, you can:
-      - View your current balance.
-      - Deposit money by entering an amount and clicking Deposit.
-      - Withdraw money (if sufficient funds exist) by entering an amount and clicking Withdraw.
-      - Transfer money by entering a recipient's account number and the transfer amount, then clicking Transfer.
 
-      
+2. **Home Page:**
+Once logged in, you can:
+- View your current balance.
+- Deposit money by entering an amount and clicking Deposit.
+- Withdraw money (if sufficient funds exist) by entering an amount and clicking Withdraw.
+- Transfer money by entering a recipient's account number and the transfer amount, then clicking Transfer.
+  
 ![image](https://github.com/user-attachments/assets/d75bb367-4847-4541-8866-bbc064c02464)
 
 
-  Logout:
-      - Click Logout to exit the home page and return to the login screen.
+3. **Logout:**
+Once logged in, you can:
+- Click Logout to exit the home page and return to the login screen.
+      
 
